@@ -10,5 +10,3 @@ public static AttributeModifierMap.MutableAttribute setCustomAttributes() {
     }
 }
   @override
-protected void registerGoals() {
-  this.
